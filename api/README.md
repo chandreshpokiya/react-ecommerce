@@ -2,7 +2,7 @@
 
 ### `develop`
 
-Start your Strapi application with autoReload enabled.
+Start Strapi application with autoReload enabled.
 
 ```
 npm run develop
@@ -10,7 +10,7 @@ npm run develop
 
 ### `start`
 
-Start your Strapi application with autoReload disabled.
+Start Strapi application with autoReload disabled.
 
 ```
 npm run start
@@ -18,7 +18,7 @@ npm run start
 
 ### `build`
 
-Build your admin panel.
+Build admin panel.
 
 ```
 npm run build
