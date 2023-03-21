@@ -1,6 +1,7 @@
 # Ecommerce Project using ReactJS
 
 A simple ecommerce app using ReactJS and Strapi
+Also used React context API to avoid prop drilling
 
 
 ## Authors
