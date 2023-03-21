@@ -44,14 +44,16 @@ Install dependencies
   npm install
 ```
 Start the server
-```bash
-  cd frontend
-```
+
 ```bash
   npm run develop
 ```
 
 ### Setup for frontend
+
+```bash
+  cd frontend
+```
 
 Install dependencies
 
