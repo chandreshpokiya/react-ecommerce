@@ -19,15 +19,6 @@ To run frontend, you will need to add the following environment variables to you
 `VITE_STRIPE_PUBLISHABLE_KEY`
 
 
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-    
 ## Run Locally
 
 Clone the project
