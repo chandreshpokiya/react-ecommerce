@@ -35,13 +35,18 @@ Go to the project directory
 
 ### Setup for api
 
+```bash
+  cd api
+```
 Install dependencies
 
 ```bash
   npm install
 ```
 Start the server
-
+```bash
+  cd frontend
+```
 ```bash
   npm run develop
 ```
